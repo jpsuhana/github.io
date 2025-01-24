@@ -44,3 +44,7 @@ body, html {
 .our-story:hover {
     background-color: #ffcc00; /* Change to your desired hover color */
 }
+
+h1 {font-size: 40px;
+
+}
