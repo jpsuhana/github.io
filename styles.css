@@ -19,15 +19,15 @@ body, html {
 }
 
 #section1 {
-    background-image: url('path/to/your/vintage-image.jpg'); /* Replace with your image */
+    background-image: url('images/grahams-homes-04.jpg'); /* Replace with your image */
 }
 
 #section2 {
-    background-image: url('path/to/your/children-playing.jpg'); /* Replace with your image */
+    background-image: url('images/dr-graham-s-homes-500x500.jpg') /* Replace with your image */
 }
 
 #section3 {
-    background-image: url('path/to/your/futuristic-classroom.jpg'); /* Replace with your image */
+    background-image: url('images/maxresdefault.jpg'); /* Replace with your image */
 }
 
 .content {
