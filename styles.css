@@ -30,7 +30,7 @@ body, html {
 
 #section3 {
     background-image: url('images/maxresdefault.jpg'); /* Replace with your image */
-    padding-bottom: 5px;
+    padding-bottom: 1px;
 }
 
 .content {
@@ -38,7 +38,7 @@ body, html {
 }
 
 .our-story {
-    margin-top: 20px;
+    margin-top: 18px;
     padding: 10px 20px;
     font-size: 1.2em;
     transition: background-color 0.3s ease;
