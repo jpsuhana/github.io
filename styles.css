@@ -20,14 +20,17 @@ body, html {
 
 #section1 {
     background-image: url('images/grahams-homes-04.jpg'); /* Replace with your image */
+    padding-bottom: 5px;
 }
 
 #section2 {
     background-image: url('images/dr-graham-s-homes-500x500.jpg') /* Replace with your image */
+    padding-bottom: 5px;
 }
 
 #section3 {
     background-image: url('images/maxresdefault.jpg'); /* Replace with your image */
+    padding-bottom: 5px;
 }
 
 .content {
@@ -46,5 +49,5 @@ body, html {
 }
 
 h1 {
-    font-size: 300px;
+    font-size: 5rem;
 }
