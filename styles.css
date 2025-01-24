@@ -48,6 +48,6 @@ body, html {
     background-color: #ffcc00; /* Change to your desired hover color */
 }
 
-h1 {
-    font-size: 5rem;
+.section-title{
+    font-size:200px;
 }
