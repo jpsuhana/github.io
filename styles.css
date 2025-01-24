@@ -24,7 +24,7 @@ body, html {
 }
 
 #section2 {
-    background-image: url('images/dr-graham-s-homes-500x500.jpg') /* Replace with your image */
+    background-image: url('images/dr-graham-s-homes-500x500.jpg'); /* Replace with your image */
     padding-bottom: 5px;
 }
 
